@@ -14,7 +14,7 @@ Count the number of appearances of words in a text
 Implement the datastrucutre for a Rubik's Cube including moves of the sides and visual representation
 
 #Dining Smurfs
-Solve an advanced versino of the Dining philosophers problem
+Solve an advanced version of the Dining philosophers problem
 
 #FileAnalysis
 Find the largest files and directories incl. GUI (Swing)
